@@ -221,7 +221,11 @@ font-weight: initials;
   and (-webkit-min-device-pixel-ratio: 2) {
 
 #bg, #bg2, #bg3 {
-	z-index: -1;
+    overscroll-behavior-x: 0.001;
+    x-index: -0.003;
+    y-index: -0.003;
+    z-index: -0.003;
+
 	position:fixed;
 	    padding:0 0 0 0;
 
