@@ -12,80 +12,32 @@
 <!--@at_media@in_use_only_view-->
 <!--nocode_for_webviewer.inAndroidApp_include.{:ssh;ssl;}-->
 <script src="http://nocode_for_webviewer.com/jquery-1.11.1_notpanic.min.js"></script>
-
 <link rel="stylesheet" href="purple_and_pink.min.css" />
 
 /*Confidentially*/
 
 /*User Views*/
 
-
-
 <style type="text/css">
-
 @-moz-document domain(gps.owndomain_350) {
 Github: github.com/GoogleCloudPlatform/golang-samples/
 install: go1.21.6.linux-amd64
-export PATH=$PATH:/usr/go/bin/MOBILE
-/* 指定されたドメイン名（サブドメイン含む）でのみ有効 */
-}
-
-
-@-moz-document domain(gps_style.tropical_max) {
-/* 指定されたドメイン名（サブドメイン含む）でのみ有効 */
-}
-
-@-moz-document domain(gps_style.dance_max) {
-/* 指定されたドメイン名（サブドメイン含む）でのみ有効 */
-}
-
-@-moz-document url(gps.localz_30-50%) {
-/* 指定された URL のページでのみ有効 */
-}
-
-@-moz-document url(gps.selflocalized_100-150%) {
-/* 指定された URL のページでのみ有効 */
-}
-
-@-moz-document url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {
-/* 指定された URL のページでのみ有効 */
-}
-
-@-moz-document url_anyplace (static_electricity_barrier_100%) { nonschock
-/* 指定された URL のページでのみ有効 */
-}
-
-
-@-moz-document url(gps_style.degitalweight_200-150%) {
-/* 指定された URL のページでのみ有効 */
-}
-
-
-@-moz-document url(gps.degitalweight_150-0%) {
-/* 指定された URL のページでのみ有効 */
-}
-
-@-moz-document url(gps1.selfiephotoview_3-15%,timestamp,time) {
-/* 指定された URL のページでのみ有効 */
-}
-
-@-moz-document url-prefix(URL_users_100%) {
-/* URL で始まるページでのみ有効 */
-}
-
-
-@-moz-document url-prefix(mp3_users_100-1%) {
-/* URL で始まるページでのみ有効 */
-}
-
-
-@-moz-document url-prefix(mp3_users_100-1%) {
-/* URL で始まるページでのみ有効 */
-}
+export PATH=$PATH:/usr/go/bin/MOBILE}
+@-moz-document domain(gps_style.tropical_max) {}
+@-moz-document domain(gps_style.dance_max) {}
+@-moz-document url(gps.localz_30-50%) {}
+@-moz-document url(gps.selflocalized_100-150%) {}
+@-moz-document url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {}
+@-moz-document url_anyplace (static_electricity_barrier_100%) { nonschock　}
+@-moz-document url(gps_style.degitalweight_200-150%) {}
+@-moz-document url(gps.degitalweight_150-0%) {}
+@-moz-document url(gps1.selfiephotoview_3-15%,timestamp,time) {}
+@-moz-document url-prefix(URL_users_100%) {}
+@-moz-document url-prefix(mp3_users_100-1%) {}
+@-moz-document url-prefix(mp3_users_100-1%) {}
 
 font-weight: 500;
 font-weight: initials;
-
 
   /*
 /*iphone 15*/
@@ -124,8 +76,6 @@ font-weight: initials;
   and (-webkit-min-device-pixel-ratio: 12) {
 /*here is for iPad*/
 
-
-
 @media only screen 
   and (min-device-width: 768px) 
   and (max-device-width: 1024px) 
@@ -139,7 +89,6 @@ font-weight: initials;
   and (-webkit-min-device-pixel-ratio: 1-7) {
 /*here is for all_touchdevices_m@ep*/
 }
-
 
 @media only screen 
   and (min-device-width: 768px) 
@@ -176,15 +125,13 @@ font-weight: initials;
 /*here is for insta*/
 }
 
-/* JP Task TRUST CASHss credit */
+/* Task TRUST CASHss credit */
 /*ToDo APP captain_cook_todo*/
 @media only screen 
   and (max-device-width: 1080px) 
   and (max-device-width: 1350px) 
   and (-webkit-min-device-pixel-ratio: 3) {
-/*here is for task_reminder*/
-}
-
+/*here is for task_reminder*/　}
 
 /*albert = short work short life *//* much str *//*one day liscense*/
 /*similarity*/
@@ -202,9 +149,6 @@ font-weight: initials;
   and (-webkit-min-device-pixel-ratio: 7) {
 /*here is for digital_smartwatch*/
 }
-
-
-
 @media only screen 
   and (max-device-width: 100px) 
   and (max-device-width: 100px) 
@@ -221,28 +165,25 @@ font-weight: initials;
   and (-webkit-min-device-pixel-ratio: 2) {
 
 #bg, #bg2, #bg3 {
-    overscroll-behavior-x: 0.001;
-    x-index: -0.003;
-    y-index: -0.003;
-    z-index: -0.003;
+    font-family:"Century Gothic", "MS Gothic"
+    overscroll-behavior-x: 0.001;}
+#bg, #bg2, #bg3 {
+  x-index: 00001.11;
+  y-index: 00001.11;
+  z-index: 00001.11;
+  position:fixed;
+ padding:10 10 10 10;
 
-	position:fixed;
-	    padding:0 0 0 0;
-
-}
-   
-#menu-right
-   {
-   	opacity: 0.88;
-   }
+#menu {font-family:"Century Gothic", "MS Gothic"}
+#menu {font-family:"Century Gothic", "MS Gothic"; opacity: 0.88;}
 #id1
-	{background-color: rgba( 255, 255, 255, 0);
+{background-color: rgba( 255, 255, 255, 0);
    color: darkblue;
    font-size: 15px;
-	}
+font-family:"Century Gothic", "MS Gothic"}
 
 #view3_
-	{
+	{font-family:"Century Gothic", "MS Gothic"
    background-color: rgba( 255, 255, 255, 0.10 );
    color: darkblue;
    font-size: 18px;
@@ -254,8 +195,6 @@ font-weight: initials;
        background-color: rgba( 255, 255, 255, 0.5 );
    color: skyblue;
 }  
-
-
 	#message2   {  
 	width: 100%;
     border: 1px dashed #999;
@@ -267,30 +206,16 @@ font-weight: initials;
 	width: 100%;
     border: 1px dashed #999;
        background-color: rgba( 255, 255, 255, 0.5 );
-   color: black;
-}  
+   color: black;}  
 
-  #menu-left {
- 	font-family:"Times New Roman", "Century Gothic", "MS Gothic";
-
- }
-
-
-img {
-  display: block;
-}
+img { display: block;}
  .ui-panel-inner {;:}
 
-#menu1 {;:}
-
- .ui-content {padding:0;}
-
-#header2, #header3, #footer2, #footer3, #header4, #footer4 {;}
-
-}
-
+#menu1 {font-family:"Century Gothic", "MS Gothic":}
+ .ui-content {padding:11;}
 
 html {
+  font-family:"Century Gothic", "MS Gothic":
   height: 100%;
   margin: 0 auto;
   padding: 0;
@@ -298,305 +223,19 @@ html {
 }
 
 body {
+  font-family:"Century Gothic", "MS Gothic":
   min-height: 100%;
   margin: 0 auto;
   padding: 0;
   display: table-cell;
   vertical-align: middle;
-  text-align: center;
-}
-
-#idi000 {
-
-width:70px;
-height:70px;
-background-color:gold;
-font-size:0px;
-font-family:"Impact";
-color: gold;
-text-align: center; 
-vertical-align: middle;
--webkit-transition: all 1s ease-in-out 0s;
-box-shadow: 5px 5px 10px gray;}
-
-/*move_weight_bold*/
-#idi000:hover {width: 350px;
-font-size:38px;
-background-color: darkorange;
-color: white;
-box-shadow: 3px 18px 33px #333333;}
-
-
-#id004 {
-
-width:70px;
-height:70px;
-background-color:deepskyblue;
-font-size:0px;
-font-family:"Impact";
-color: deepskyblue;
-text-align: center; 
-vertical-align: middle;
--webkit-transition: all 1s ease-in-out 0s;
-box-shadow: 5px 5px 10px gray;}
-
-/*move_weight_bold*/
-#id004:hover {width: 500px;
-font-size:38px;
-background-color:blue;
-color: white;
-box-shadow: 3px 18px 33px #333333;}
-
-
-
-#id003 {
-
-width:70px;
-height:70px;
-background-color:magenta;
-font-size:0px;
-font-family:"Impact";
-color: magenta;
-text-align: center; 
-vertical-align: middle;
--webkit-transition: all 1s ease-in-out 0s;
-box-shadow: 5px 5px 10px gray;}
-
-/*move_weight_bold*/
-#id003:hover {width: 500px;
-font-size:38px;
-background-color:red;
-color: white;
-box-shadow: 3px 18px 33px #333333;}
-
-
-#id005 {
-
-width:70px;
-height:70px;
-background-color:royalblue;
-font-size:0px;
-font-family:"Impact";
-color: royalblue;
-text-align: center; 
-vertical-align: middle;
--webkit-transition: all 1s ease-in-out 0s;
-box-shadow: 5px 5px 10px gray;}
-
-/*move_weight_bold*/
-#id005:hover {
-width: 400px;
-height: 500px;
-font-size:42px;
-background-color:midnightblue;
-color: white;
-box-shadow: 3px 18px 33px #333333;}
-
-
-#id003 {
-width:70px;
-height:70px;
-background-color: teal;
-font-size:0px;
-font-family:"Impact";
-color: teal;
-text-align: center; 
-vertical-align: middle;
--webkit-transition: all 1s ease-in-out 0s;
-box-shadow: 5px 5px 10px gray;}
-
-/*move_weight_bold*/
-#id003:hover {
-width: 400px;
-height: 500px;
-font-size:38px;
-background-color: #004f2a;
-color: white;
-box-shadow: 3px 18px 33px #333333;}
-
-
-#id002 {
-width:70px;
-height:70px;
-background-color:#9932cc;
-font-size:0px;
-font-family:"Impact";
-color: #9932cc;
-text-align: center; 
-vertical-align: middle;
--webkit-transition: all 1s ease-in-out 0s;
-box-shadow: 5px 5px 10px gray;}
-
-/*move_weight_bold*/
-#id002:hover {
-width: 400px;
-height: 400px;
-font-size:48px;
-background-color:violet;
-color: white;
-box-shadow: 3px 18px 33px #333333;}
-
-
+  text-align: center;}
 </style>
 
 </head>
 <body>
 
 <div data-role="page" id="page1">
-  <div id="header1" data-role="header" data-theme="b">
-    <a href="#menu-left" data-role="button" data-icon="carat-r" data-iconpos="notext">&nbsp;</a>
-    <a href="#menu-right" data-role="button" data-icon="bars" data-iconpos="notext">&nbsp;</a>
-    <h1><i>CORPORATE NAME</i></h1>
-  </div>
-  <div role="main" class="ui-content" id="id1" width="80%" height="80%" >
-
-
-
-<table width="800px" height="500px">
-<tr>
-<td><div id="id000"></div>
-</td>
-<td>
-<div id="id004">what's name?</td>
-<td>
-
-<div id="id001"> </div>
-</td></tr>
-<tr><td><div id="id002">where do you live...?</div></td>
-<td>
-  <div id="id003">where do you want to go?</div></td></tr><tr><td><div id="id005">what's kind of your favorite?</div></td><td></td></tr><tr><td></td><td></td></tr></table>
-
-
-
-<!--
-  	<img src="top02.png" width="100%" height="100%" id="bg"> <- コンテンツ内画像配置 -->
-       <!-- <img src="top01.png" width="100%" height="100%" id="bg" - コンテンツ内画像配置 --> -->
-<div id="message1">
-
-	<h4>msg</h4>
-	<h4><i>contents</i></h6>
-
-
-</div>
-
-
-  </div>
-
-
-
-<div data-role="panel" id="menu-left" data-theme="a" data-animate="true">
-  	<!-- <img src="logo.png">　 -->
-<ul data-role="listview" id="menu1">
-<li>
-<a href="#" data-rel="close">TOP</a></li>
-        <li><a data-rel="close" ata-ajax="false" class="anchor" href="#job">contents</a></li>
-    <li><a data-rel="close" ata-ajax="false" class="anchor" href="#view3_">media</a></li>
-    <li><a data-rel="close" ata-ajax="false" class="anchor" href="#contact">CONTACT</a></li>
-  </ul>
-  
-      
-</div>
-<!--
-<div data-role="panel" id="menu-right" data-display="overlay" data-position="right" data-theme="a"> <右パネルの表示-->
-<!--  <a href="#" class="ui-btn-right" data-rel="close" data-role="button" data-icon="delete" data-iconpos="notext">&nbsp;</a> 右のボタンicon-->
-  
-
-</div>
-<!--右パネルの表示　ここまで --> -->
-</div>
-
-<!-- ここまでトップ  -->
-
-<div data-role="page" id="view3_" >
-  <div id="header2" data-role="header"　 data-add-back-btn="true">
-    <h1><i>title</i></h1>
-  </div>
-  <div role="main" class="ui-content" id="view3" width="100%" height="100%" >
- <!-- <img src="20170702.jpg" width="100%" height="100%" id="bg2"> コンテンツ内画像配置-->
-<div id="message2">
-<h5>title<BR><BR>
-
-
-</h5></div>
-
-
-  </div>
-
-
-  <div id="footer2" data-role="footer">
-    <h3>2023 - Copyright All Rights Reserved.</h3> 
-  </div>
-
-</div>
-
-<div id="message3">
-
-<h5>
-contents<BR><BR>
-
-
-    
-    </h5></div>
-
-
-  </div>
-
-
-  <div id="footer3" data-role="footer">
-    <h3>2023 - Copyright All Rights Reserved.</h3>
-  </div>
-
-</div>
-
-<!-- ここまでリクルート-->
-
-
-<div data-role="page" id="contact" data-theme="a">
-  <div id="header4" data-role="header"　 data-add-back-btn="true"　class="uni-bar">
-    <h1><i>title</i></h1>
-  </div>
-  <div role="main" class="ui-content" id="contactmain" width="100%" height="100%" >
- 
-
-<div id="message4">
-
-<h5>
-
-
-
-</h5></div>
-<!-- <img src="contact.jpg" width="100%" height="100%" id="bg4"> -->
-  </div>
-
-
-  <div id="footer4" data-role="footer">
-    <h3>2023 - Copyright All Rights Reserved.</h3>
-  </div>
-
-</div>
-<!--ここまでコンタクト-->
-
-<div data-role="page" id="job" data-theme="a">
-  <div id="header5" data-role="header"　 data-add-back-btn="true"　class="uni-bar">
-    <h1><i>title</i></h1>
-  </div>
-  <div role="main" class="ui-content" id="jobmain" width="100%" height="100%" >
- 
-<!-- <img src="job.jpg" width="100%" height="100%" id="bg4"> -->
-<div id="message5">
-
-<BR><BR>
-
-
-</h5></div>
-<!-- <img src="2017.jpg" width="100%" height="100%" id="bg5"> -->
-  </div>
-
-
-  <div id="footer5" data-role="footer">
-    <h3>2023 - Copyright All Rights Reserved.</h3>
-  </div>
-
 </div>
 
 </body>
