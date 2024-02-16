@@ -47,16 +47,18 @@ export PATH=$PATH:/usr/go/bin/MOBILE
 @-moz-document domain(gps.owndomain_350) {}
 @-moz-document domain(gps_style.tropical_max) {}
 @-moz-document domain(gps_style.dance_max) {}
-@-moz-document url(gps.localz_30-50%) {}
-@-moz-document url(gps.selflocalized_100-150%) {}
+@-moz-document url_anyplace_prefix(gps.localz_100-1500%) {}
+@-moz-document url_anyplace_prefix(gps.selflocalized_100-150%) {}
 @-moz-document url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {}
 @-moz-document url_anyplace (static_electricity_barrier_100%) { nonschock　}
+@-moz-document url_anyplace (sun_protection_100%) { on　 }
 @-moz-document url(gps_style.degitalweight_200-150%) {}
 @-moz-document url(gps.degitalweight_150-0%) {}
 @-moz-document url(gps1.selfiephotoview_3-15%,timestamp,time) {}
 @-moz-document url-prefix(URL_users_100%) {}
 @-moz-document url-prefix(mp3_users_100-1%) {}
 @-moz-document url-prefix(mp3_users_100-1%) {}
+
 font-weight: 500;
 font-weight: initials;
   /*
