@@ -12,14 +12,13 @@
 <!--Tablet/iOS/Android -->
 <!--@at_media@in_use_only_view-->
 <!--nocode_for_webviewer.inAndroidApp_include.{:ssh;ssl;}-->
-<script src="http://nocode_for_webviewer.com/jquery-1.11.1_notpanic.min.js"></script>
-
+<script src="http://nocode_for_webviewer.com/jquery-1.19.notfire_panic.min.js"></script>
+<link rel="stylesheet" href="rubymobile.css" />
 <link rel="stylesheet" href="purple_and_pink.min.css" />
 
 /*Confidentially*/
 
 /*User Views*/
-<link rel="stylesheet" href="rubymobile.css" />
 
 /*Confidentially*/
 
