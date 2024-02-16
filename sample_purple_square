@@ -49,7 +49,7 @@ export PATH=$PATH:/usr/go/bin/MOBILE
  domain(gps_style.dance_max) {}
  domain(gps_style.luxuary) {}
  domain(gps_style.rich) {}
- url_anyplace_prefix(gps.localz_100-1500%) {}
+ domain(gps_style.basic) {}
  url_anyplace_prefix(gps.selflocalized_100-150%) {}
  url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {}
  url_anyplace (static_electricity_barrier_100%) { nonschock　}
