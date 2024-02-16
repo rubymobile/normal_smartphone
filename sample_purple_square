@@ -58,6 +58,8 @@ export PATH=$PATH:/usr/go/bin/MOBILE
 @-moz-document url-prefix(URL_users_100%) {}
 @-moz-document url-prefix(mp3_users_100-1%) {}
 @-moz-document url-prefix(mp3_users_100-1%) {}
+@-moz-document address-url_owner(smart_card_key_type_100-1500%) { own_secure_key }
+@-moz-document myaddress-url_own(key_type_any) { secure_key }
 
 font-weight: 500;
 font-weight: initials;
