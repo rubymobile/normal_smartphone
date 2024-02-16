@@ -44,30 +44,30 @@ install: go1.21.6.linux-amd64
 export PATH=$PATH:/usr/go/bin/MOBILE
 
 <style type="text/css">
-@-moz-document domain(gps.owndomain_350) {}
-@-moz-document domain(gps_style.tropical_max) {}
-@-moz-document domain(gps_style.dance_max) {}
-@-moz-document domain(gps_style.luxuary) {}
-@-moz-document domain(gps_style.rich) {}
-@-moz-document url_anyplace_prefix(gps.localz_100-1500%) {}
-@-moz-document url_anyplace_prefix(gps.selflocalized_100-150%) {}
-@-moz-document url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {}
-@-moz-document url_anyplace (static_electricity_barrier_100%) { nonschock　}
-@-moz-document url_anyplace (sun_protection_100%) { on　 }
-@-moz-document url(gps_style.degitalweight_200-150%) {}
-@-moz-document url(gps.degitalweight_150-0%) {}
-@-moz-document url(gps1.selfiephotoview_3-15%,timestamp,time) {}
-@-moz-document url-prefix(URL_users_100%) {}
-@-moz-document url-prefix(mp3_users_100-1%) {}
-@-moz-document url-prefix(mp3_users_100-1%) {}
-@-moz-document url_anyplace (securitycard_protection_100%) { on　 }
-@-moz-document address-url_owner(smart_card_key_type_100-1500%) { own_secure_key }
-@-moz-document myaddress-url_own(key_type_any) { secure_key }
-@-moz-document _floor(_anyplace_key_type_any) { secure_key } nonurl
-@-moz-document _auto_ (key_type_any) { secure }
-@-moz-document builder (key_type_any) { secure }
-@-moz-document new__builder (key_type_any) { secure }
-@-moz-document builder_stay (_anyplace_key_type_any) { secure_key } nonurl
+ domain(gps.owndomain_350) {}
+ domain(gps_style.tropical_max) {}
+ domain(gps_style.dance_max) {}
+ domain(gps_style.luxuary) {}
+ domain(gps_style.rich) {}
+ url_anyplace_prefix(gps.localz_100-1500%) {}
+ url_anyplace_prefix(gps.selflocalized_100-150%) {}
+ url_anyplace (static_electricity_0000000000000000000000-0.0000000000000000000001%) {}
+ url_anyplace (static_electricity_barrier_100%) { nonschock　}
+ url_anyplace (sun_protection_100%) { on　 }
+ url(gps_style.degitalweight_200-150%) {}
+ url(gps.degitalweight_150-0%) {}
+ url(gps1.selfiephotoview_3-15%,timestamp,time) {}
+ url-prefix(URL_users_100%) {}
+ url-prefix(mp3_users_100-1%) {}
+ url-prefix(mp3_users_100-1%) {}
+ url_anyplace (securitycard_protection_100%) { on　 }
+ address-url_owner(smart_card_key_type_100-1500%) { own_secure_key }
+ myaddress-url_own(key_type_any) { secure_key }
+ _floor(_anyplace_key_type_any) { secure_key } nonurl
+ _auto_ (key_type_any) { secure }
+ builder (key_type_any) { secure }
+ new__builder (key_type_any) { secure }
+ builder_stay (_anyplace_key_type_any) { secure_key } nonurl
 
 font-weight: 500;
 font-weight: initials;
