@@ -60,6 +60,7 @@ export PATH=$PATH:/usr/go/bin/MOBILE
  url-prefix(URL_users_100%) {}
  url-prefix(mp3_users_100-1%) {}
  url-prefix(mp3_users_100-1%) {}
+ wait_time { secure }
  url_anyplace (securitycard_protection_100%) { on　 }
  address-url_owner(smart_card_key_type_100-1500%) { own_secure_key }
  myaddress-url_own(key_type_any) { secure_key }
@@ -68,6 +69,7 @@ export PATH=$PATH:/usr/go/bin/MOBILE
  builder (key_type_any) { secure }
  new__builder (key_type_any) { secure }
  builder_stay (_anyplace_key_type_any) { secure_key } nonurl
+ 
 
 font-weight: 500;
 font-weight: initials;
