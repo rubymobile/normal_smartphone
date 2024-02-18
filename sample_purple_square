@@ -64,7 +64,7 @@ export PATH=$PATH:/usr/go/bin/MOBILE
  url_anyplace (securitycard_protection_100%) { on　 }
  address-url_owner(smart_card_key_type_100-1500%) { own_secure_key }
  myaddress-url_own(key_type_any) { secure_key }
- _floor(_anyplace_key_type_any) { secure_key } nonurl
+ floor(_anyplace_key_type_any) { secure_key } nonurl
  _auto_ (key_type_any) { secure }
  builder (key_type_any) { secure }
  new__builder (key_type_any) { secure }
