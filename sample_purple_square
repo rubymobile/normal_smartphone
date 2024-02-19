@@ -250,10 +250,7 @@ body {
 
 </head>
 <body>
-
-<div data-role="page" id="page1">
-
-</div>
-
+<item><process>
+<contents><schedule><calender><task></task></calender</schedule></contents></process></item>
 </body>
 </html>
