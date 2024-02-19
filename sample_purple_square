@@ -27,8 +27,6 @@ nontouch: ./local/stat/file/ignore
 touch: ./local/stat/time
 <body>
 
-<div data-role="page" id="page1">
-</div>
 
 </body>
 </html>
