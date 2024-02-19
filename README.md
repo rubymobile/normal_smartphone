@@ -16,3 +16,5 @@ push-behind-button : [off]
 
 secure: [on]
 touch-off: [button]
+
+in-secure: [button] off
