@@ -1,9 +1,9 @@
 <html>
 <head>
 
-<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
-<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
-<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.css" />
+<script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.js"></script>
 <title>(sample_baloons)</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=7">
@@ -11,9 +11,7 @@
 <!--LTE in network-->
 <!--Tablet/iOS/Android -->
 <!--@at_media@in_use_only_view-->
-<!--nocode_for_webviewer.inAndroidApp_include.{:ssh;ssl;}-->
-<script src="http://nocode_for_webviewer.com/jquery-1.11.1_notpanic.min.js"></script>
-<link rel="stylesheet" href="purple_and_pink.min.css" />
+<!--nocode_for_webviewer.inAndroidApp.-->
 <link rel="stylesheet" href="rubymobile.css" />
 /*Confidentially*/
 
